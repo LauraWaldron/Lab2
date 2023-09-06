@@ -20,6 +20,7 @@ class DetailViewController: UIViewController {
     @IBOutlet weak var durationLabel: UILabel!
     
     
+    
     // A property to store the track object.
     // We can set this property by passing along the track object associated with the track the user tapped in the table view.
     var track: Track!
